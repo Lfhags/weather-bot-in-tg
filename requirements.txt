@@ -2,3 +2,4 @@ aiogram
 apscheduler
 sqlalchemy
 requests
+aiosqlite
