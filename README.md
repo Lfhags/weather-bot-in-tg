@@ -46,7 +46,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository:**
 
-   git clone https://github.com/yourusername/telegram-weather-bot.git
+   git clone https://github.com/Lfhags/weather-bot-in-tg.git
    cd telegram-weather-bot
    
 2. **Create a virtual environment (optional but recommended):**
